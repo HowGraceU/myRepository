@@ -12,7 +12,8 @@
 			<div>相关介绍：传统的企业网站，所有的html共用同一个css文件，以及部分重复样式复用同一css代码。</div>
 			<img src="images/traditionalHtml.jpg">
 		</dd>
-
+	</dl>
+	<dl>
 		<dt>2.淘宝售货网页</dt>
 		<dd>
 			<div>这里是超链接：<a href="https://htmlpreview.github.io/?https://github.com/HowGraceU/taobaoShoe/blob/master/index.html">淘宝售货网页1</a></div>
@@ -22,8 +23,8 @@
 			<div>这里是超链接：<a href="https://htmlpreview.github.io/?https://github.com/HowGraceU/taobaoTunhuo/blob/master/tunhuo.html">淘宝售货网页2</a></div>
 			<div>相关介绍：单纯的淘宝囤货网页。</div>
 		</dd>
-
-
 	</dl>
+
+	
 </body>
 </html>
